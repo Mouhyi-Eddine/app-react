@@ -145,6 +145,30 @@
         "Plante",
         "Poison"
       ]
+    },
+    {
+      "id": 1606237093150,
+      "hp": 100,
+      "cp": 10,
+      "name": "anaelle",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/180.png",
+      "types": [
+        "Plante",
+        "Eau",
+        "Combat"
+      ]
+    },
+    {
+      "id": 1606237129306,
+      "hp": "300",
+      "cp": "1",
+      "name": "Mouhyi",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/082.png",
+      "types": [
+        "Combat",
+        "Psy",
+        "Electrik"
+      ]
     }
   ]
 }
